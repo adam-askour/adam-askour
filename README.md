@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adam Askour</h1>
 <h3 align="center">A passionate full stack developer from morocco</h3>
 
-- 🌱 I’m currently learning **React And MVC technologie**
+- 🌱 I’m currently learning **MVC technologie**
 
 - 📫 How to reach me **adam.askour06@gmail.com**
 
